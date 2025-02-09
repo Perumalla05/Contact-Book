@@ -1,7 +1,7 @@
 
 
 
-# 📖 Contact Book Application  
+# 📖 Contact Book 
 
 An intuitive and efficient Contact Book built using **Python Tkinter** for the user interface and **DB Studio** for backend database management. This project allows users to store, view, update, and set reminders for contacts seamlessly.
 
